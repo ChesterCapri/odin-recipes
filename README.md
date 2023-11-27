@@ -1,1 +1,2 @@
-# odin-recipes-2
+# odin-recipes-
+Hello, this is my first recipe page with Odin!
